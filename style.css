@@ -3,7 +3,7 @@
 
 body
 {
-    background-image: linear-gradient(90deg, yellow, green );
+    background-image: linear-gradient(90deg, pastel yellow, pastel green );
     color: black;
     font-size: 15pt;
     font-family:Arial, Helvetica, sans-serif;
@@ -13,7 +13,7 @@ body
 
 h1
 {   
-    background-image: linear-gradient(270deg, yellow, blue );
+    background-image: linear-gradient(270deg, pastel yellow, pastel green );
     background-color: aqua;
     color: black;
     font-size: 30pt;
