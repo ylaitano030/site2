@@ -57,7 +57,7 @@ li
 
 a
 {
-    color: blue;
+    color: black;
     font-size: 20pt;
     font-family:Arial;
     text-align: center;
@@ -74,7 +74,7 @@ table
         {
             border: 3px solid;
         }  
-    td {color: blue;}
+    td {color: black;}
     text-align: center;  
     margin: auto;    
 }
