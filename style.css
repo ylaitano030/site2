@@ -13,7 +13,7 @@ body
 
 h1
 {   
-    background-image: linear-gradient(98deg );
+    background-image: linear-gradient(98deg, orange );
     background-color: aqua;
     color: black;
     font-size: 30pt;
